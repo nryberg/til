@@ -4,6 +4,15 @@ Knowledge management is hard.  Especially when you're working with very small bi
 
 This is a very sweet solution using [Github Actions](https://help.github.com/en/actions/reference/workflow-syntax-for-github-actions) documented by [Simon Willison](https://simonwillison.net/2020/Apr/20/self-rewriting-readme/).
 
+**Process**
+
+| Step  | Action | Notes |
+| ----- | ------ | ----- |
+| 1.    | Build new 'til' Repository in Github | |
+| 2.    | Create .github/workflows directory | note the dot |
+| 3.    | Add in [build.yml](https://github.com/nryberg/til/blob/master/.github/workflows/build.yml) file |  |
+| 4.    | Add requirements file | at the root |
+
 Here's my action built on Simon's:
 
 ```yml
