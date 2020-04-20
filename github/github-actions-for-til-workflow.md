@@ -6,7 +6,7 @@ This is a very sweet solution using [Github Actions](https://help.github.com/en/
 
 Here's my action built on Simon's:
 
-```
+```yml
 name: Build README and deploy Datasette
 
 on:
