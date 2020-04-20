@@ -15,6 +15,9 @@ This is a very sweet solution using [Github Actions](https://help.github.com/en/
 | 5.    | Add [Build Database File](/build_database.py) | Correct any hardcoded paths |
 | 6.    | Add [Update Readme File](/update_readme.py)   | We'll get this right... |
 
+
 Along the way, I monitored the results in the Actions tab.
 
 ![Screen shot](/img/2020.04.20.11.19.0001.jpg "Monitor Actions Tab")
+
+This really helped with debugging obvious errors, but it didn't work where the code ran but didn't actually do anything.   I'm thinking there's a path or credentials issue.
