@@ -1,4 +1,4 @@
-# Implement Today I Learned (TIL) Pattern using Github Actions 
+# Implement Today I Learned TIL Pattern using Github Actions 
 
 Knowledge management is hard.  Especially when you're working with very small bits of knowledge.  Gists tend to accrete but they're hard to locate after the fact. It's easier when you can rely Github to manage the versioning and use their built in tools to create tables of content.  Table of contents?
 

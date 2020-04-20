@@ -2,6 +2,7 @@ from datetime import timezone
 import git
 import pathlib
 import sqlite_utils
+import json
 
 
 root = pathlib.Path(__file__).parent.resolve()
@@ -38,8 +39,8 @@ def build_database(repo_path):
         title = fp.readline().lstrip("#").strip()
         body = fp.read().strip()
         path = str(filepath.relative_to(root))
-        # Original https://github.com/nryberg/til/blob/master/{}
-        url = "https://github.com/nryberg/til/{}".format(path)
+        # Original https://github.com/nryberg/til/{}
+        url = "https://github.com/nryberg/til/blob/master/{}".format(path)
         record = {
             "path": path.replace("/", "_"),
             "topic": path.split("/")[0],
@@ -47,6 +48,11 @@ def build_database(repo_path):
             "url": url,
             "body": body,
         }
+        print("Path: " + path)
+        
+        # Iterate over key/value pairs in dict and print them
+        for key, value in all_times.items():
+            print('dict:', key, ' : ', value)
         record.update(all_times[path])
         table.insert(record)
     if "til_fts" not in db.table_names():
