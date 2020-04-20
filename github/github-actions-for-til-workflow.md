@@ -13,6 +13,8 @@ This is a very sweet solution using [Github Actions](https://help.github.com/en/
 | 3.    | Add in [build.yml](/.github/workflows/build.yml) file |  |
 | 4.    | Add [requirements file](requirements.txt) | at the root |
 | 5.    | Add [Build Database File](build_database.py) | Correct any hardcoded paths |
+| 6.    | Add [Update Readme File](update_readme.py)   | We'll get this right... |
+
 
 Along the way, I monitored the results in the Actions tab.
 
