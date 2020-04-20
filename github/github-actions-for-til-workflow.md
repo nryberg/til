@@ -10,8 +10,11 @@ This is a very sweet solution using [Github Actions](https://help.github.com/en/
 | ----- | ------ | ----- |
 | 1.    | Build new 'til' Repository in Github | |
 | 2.    | Create .github/workflows directory | note the dot |
-| 3.    | Add in [build.yml](https://github.com/nryberg/til/blob/master/.github/workflows/build.yml) file |  |
-| 4.    | Add [requirements file](https://github.com/nryberg/til/blob/master/requirements.txt) | at the root |
+| 3.    | Add in [build.yml](/.github/workflows/build.yml) file |  |
+| 4.    | Add [requirements file](requirements.txt) | at the root |
+| 5.    | Add [Build Database File](build_database.py) | Correct any hardcoded paths |
+
+Along the way, I monitored the results in the Actions tab.
 
 Here's my action built on Simon's:
 
