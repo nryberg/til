@@ -11,7 +11,7 @@ This is a very sweet solution using [Github Actions](https://help.github.com/en/
 | 1.    | Build new 'til' Repository in Github | |
 | 2.    | Create .github/workflows directory | note the dot |
 | 3.    | Add in [build.yml](https://github.com/nryberg/til/blob/master/.github/workflows/build.yml) file |  |
-| 4.    | Add requirements file | at the root |
+| 4.    | Add [requirements file](https://github.com/nryberg/til/blob/master/requirements.txt) | at the root |
 
 Here's my action built on Simon's:
 
