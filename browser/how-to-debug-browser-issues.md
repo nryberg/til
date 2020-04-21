@@ -13,11 +13,13 @@ Try a private window. Do you still see the issue?
 
 ## Screenshots
 
-So that we can see exactly what you see, would you mind sending through a screenshot or a quick screencast video? We use a simple, free tool called CloudApp that will let you record up to 15 seconds. 
+So that we can see exactly what you see, would you mind sending through a screenshot or a quick screencast video? We use a simple, free tool called [CloudApp](https://my.cl.ly/r/3x382H2r0o2g0I2U) that will let you record up to 15 seconds. 
 
 ## Baseline Browser
 
-To help us test in a similar environment, head to whatsmybrowser.org, select copy and send us the link. It’ll tell us your Browser details, Operating system, Browser size and Screen size, but does not share your IP address with us.
+To help us test in a similar environment, head to [whatsmybrowser.org](www.whatsmybrowser.org), select copy and send us the link. 
+
+It’ll tell us your Browser details, Operating system, Browser size and Screen size, but does not share your IP address with us.
 
 ## List Extensions Installed 
 
