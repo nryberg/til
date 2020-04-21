@@ -7,4 +7,7 @@ My Today I Learned snippets. Inspired by simonw/til, which was inspired by jbran
 Thoroughly and delightfully documented at [Simon's Self Writing Readme](https://simonwillison.net/2020/Apr/20/self-rewriting-readme/).
 
 <!-- index starts -->
+## github
+
+* [Implement Today I Learned TIL Pattern using Github Actions](https://github.com/nryberg/til/blob/master/github/github-actions-for-til-workflow.md) - 2020-04-20
 <!-- index ends -->
