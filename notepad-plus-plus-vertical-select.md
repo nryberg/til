@@ -20,3 +20,15 @@ In Notepad++ put the cursor at the starting point - the aa in the upper right co
 Then hold down the SHIFT + ALT keys and select. 
 
 ![Screen shot](/img/2020.04.21.08.18.0000.jpg "Select vertical screenshot")
+
+## Insert vertically
+
+The complement to this of course is the use of inserting text. 
+
+Select vertically above, Notepad++ will cue you if you want the zero column, then ALT+C to insert characters, so that the above looks like this:
+
+```
+* Slides : version 0_10
+* Entanglement Web App : version 3_4_9
+* Web Store : version 0_2
+```
