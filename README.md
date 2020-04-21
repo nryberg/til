@@ -14,4 +14,8 @@ Thoroughly and delightfully documented at [Simon's Self Writing Readme](https://
 ## browser
 
 * [How to debug browser issues](https://github.com/nryberg/til/blob/master/browser/how-to-debug-browser-issues.md) - 2020-04-21
+
+## editors
+
+* [Vertical Select in Notepad++](https://github.com/nryberg/til/blob/master/editors/notepad-plus-plus-vertical-select.md) - 2020-04-21
 <!-- index ends -->
