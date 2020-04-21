@@ -48,11 +48,7 @@ def build_database(repo_path):
             "url": url,
             "body": body,
         }
-        print("Path: " + path)
-        
-        # Iterate over key/value pairs in dict and print them
-        for key, value in all_times.items():
-            print('dict:', key, ' : ', value)
+
         record.update(all_times[path])
         table.insert(record)
     if "til_fts" not in db.table_names():
