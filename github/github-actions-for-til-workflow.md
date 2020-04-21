@@ -24,5 +24,12 @@ This really helped with debugging obvious errors, but it didn't work where the c
 
 ### Workflow Flow
 
-Working through issues
+Make sure that you have this in the README:
+
+```
+<!-- index starts -->
+<!-- index ends -->
+```
+
+The code will look for these fences.
 
