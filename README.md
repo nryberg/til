@@ -19,4 +19,8 @@ Thoroughly and delightfully documented at [Simon's Self Writing Readme](https://
 
 * [Vertical Select in Notepad++](https://github.com/nryberg/til/blob/master/editors/notepad-plus-plus-vertical-select.md) - 2020-04-21
 * [Great fonts matter in tools](https://github.com/nryberg/til/blob/master/editors/great-fonts-matter.md) - 2020-04-21
+
+## python
+
+* [Fun with Python Dates](https://github.com/nryberg/til/blob/master/python/fun-with-python-dates.md) - 2020-04-22
 <!-- index ends -->
