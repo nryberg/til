@@ -18,4 +18,5 @@ Thoroughly and delightfully documented at [Simon's Self Writing Readme](https://
 ## editors
 
 * [Vertical Select in Notepad++](https://github.com/nryberg/til/blob/master/editors/notepad-plus-plus-vertical-select.md) - 2020-04-21
+* [Great fonts matter in tools](https://github.com/nryberg/til/blob/master/editors/great-fonts-matter.md) - 2020-04-21
 <!-- index ends -->
