@@ -6,4 +6,9 @@ figure out where I got a great font that I've used recently.
 The joy of my editing experience is [JetBrains
 Mono](https://www.jetbrains.com/lp/mono/).  
 
-![Screenshot](/img/Screenshot.2020-04-21.22.22.27.png "Screenshot")
+Installing on Windows is as simple as downloading the zip file, decompressing
+it, then right clicking each TTF file and installing. 
+
+Bam!
+
+![Screenshot](/img/Screenshot.2020-04-21.22.22.27.png "Screenshot" =250x)
