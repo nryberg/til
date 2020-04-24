@@ -15,13 +15,36 @@ C:\Program Files (x86)\Log Parser 2.2
 ```
 ## Sample Query
 
+**Taste Test**
+
 ```
 logparser "SELECT TOP 10 * from flightlist_20200101_20200131.csv"
 ```
 
-Results in:
+Results in a nicely formatted output:
 
 ![Screenshot](/img/2020.04.24.10.44.0000.jpg "Screenshot")
+
+**Kick Sample to another text file**
+
+```
+logparser "SELECT TOP 10 * from flightlist_20200101_20200131.csv" -o:CSV -stats:OFF > "sampler.csv"
+```
+
+Filename | RowNumber | callsign | number | icao24 | registration | typecode | origin | destination | firstseen | lastseen | day
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+C:\Users\nick\Dropbox\Develop\Data\Flights\Historical\flightlist_20200101_20200131.csv | 2 | SVA816 |  | 710064 | HZ-AK24 | B77W |  |  | 2019-12-31 00:19:47 | 2020-01-01 13:27:28 | 2020-01-01 00:00:00
+C:\Users\nick\Dropbox\Develop\Data\Flights\Historical\flightlist_20200101_20200131.csv | 3 | THY183 |  | 4ba9c1 | TC-JNA | A332 |  | LTBW | 2019-12-31 00:25:26 | 2020-01-01 07:48:41 | 2020-01-01 00:00:00
+C:\Users\nick\Dropbox\Develop\Data\Flights\Historical\flightlist_20200101_20200131.csv | 4 | CES738 | MU738 | 781418 |  |  | YMML | YSSY | 2019-12-31 01:08:54 | 2020-01-01 01:45:29 | 2020-01-01 00:00:00
+C:\Users\nick\Dropbox\Develop\Data\Flights\Historical\flightlist_20200101_20200131.csv | 5 | CES771 | MU771 | 781858 |  |  | YSSY | EHAM | 2019-12-31 01:29:25 | 2020-01-01 04:08:28 | 2020-01-01 00:00:00
+C:\Users\nick\Dropbox\Develop\Data\Flights\Historical\flightlist_20200101_20200131.csv | 6 | HAL5 | HA5 | a455ea | N379HA | A332 | KLAS |  | 2019-12-31 02:23:05 | 2020-01-01 08:52:18 | 2020-01-01 00:00:00
+C:\Users\nick\Dropbox\Develop\Data\Flights\Historical\flightlist_20200101_20200131.csv | 7 | ACA43 |  | c0173f | C-FIUW | B77W | CYYZ | CYYZ | 2019-12-31 03:13:16 | 2020-01-01 10:25:51 | 2020-01-01 00:00:00
+C:\Users\nick\Dropbox\Develop\Data\Flights\Historical\flightlist_20200101_20200131.csv | 8 | NWS353 | N4353 | 42433e |  |  | UUEE | UUEE | 2019-12-31 03:35:56 | 2020-01-01 05:35:15 | 2020-01-01 00:00:00
+C:\Users\nick\Dropbox\Develop\Data\Flights\Historical\flightlist_20200101_20200131.csv | 9 | CSN612 |  | 7814b9 |  |  | RJBB |  | 2019-12-31 04:20:59 | 2020-01-01 02:07:23 | 2020-01-01 00:00:00
+C:\Users\nick\Dropbox\Develop\Data\Flights\Historical\flightlist_20200101_20200131.csv | 10 | CCA985 | CA985 | 780cb6 | B-2485 | B748 |  | KSFO | 2019-12-31 04:26:12 | 2020-01-01 18:36:59 | 2020-01-01 00:00:00
+C:\Users\nick\Dropbox\Develop\Data\Flights\Historical\flightlist_20200101_20200131.csv | 11 | ETH726 |  | 040087 | ET-ARE | B788 | SBGR | LOWW | 2019-12-31 04:33:19 | 2020-01-01 04:25:22 | 2020-01-01 00:00:00
+
+
 
 ## Help file 
 
