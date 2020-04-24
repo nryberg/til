@@ -31,4 +31,12 @@ Thoroughly and delightfully documented at [Simon's Self Writing Readme](https://
 ## juptyer
 
 * [Jupyter on Local Server](https://github.com/nryberg/til/blob/master/juptyer/jupyter-not-starting.md) - 2020-04-23
+
+## tools
+
+* [Log Parser Tool from Microsoft](https://github.com/nryberg/til/blob/master/tools/log-parser-tool-microsoft.md) - 2020-04-24
+
+## powershell
+
+* [Sample very large file in Powershell](https://github.com/nryberg/til/blob/master/powershell/sample-very-large-files-in-powershell.md) - 2020-04-24
 <!-- index ends -->
