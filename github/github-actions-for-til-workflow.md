@@ -33,3 +33,5 @@ Make sure that you have this in the README:
 
 The code will look for these fences.
 
+[Now is the time](http:://www.google.com)
+
