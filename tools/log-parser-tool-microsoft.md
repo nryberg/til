@@ -21,7 +21,7 @@ logparser "SELECT TOP 10 * from flightlist_20200101_20200131.csv"
 
 Results in:
 
-![Screenshot](img/2020.04.24.10.44.0000.jpg "Screenshot")
+![Screenshot](/img/2020.04.24.10.44.0000.jpg "Screenshot")
 
 ## Help file 
 
