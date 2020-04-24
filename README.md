@@ -27,4 +27,8 @@ Thoroughly and delightfully documented at [Simon's Self Writing Readme](https://
 ## data
 
 * [Example Wikidata Query](https://github.com/nryberg/til/blob/master/data/wikipedia-query.md) - 2020-04-23
+
+## juptyer
+
+* [Jupyter on Local Server](https://github.com/nryberg/til/blob/master/juptyer/jupyter-not-starting.md) - 2020-04-23
 <!-- index ends -->
