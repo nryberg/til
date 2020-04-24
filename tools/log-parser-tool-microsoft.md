@@ -32,7 +32,7 @@ logparser "SELECT TOP 10 RowNumber, callsign, number, icao24, registration, type
 ```
 
 RowNumber | callsign | number | icao24 | registration | typecode | origin | destination | firstseen | lastseen | day
-- | 
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- 
 2 | SVA816 |  | 710064 | HZ-AK24 | B77W |  |  | 2019-12-31 00:19:47 | 2020-01-01 13:27:28 | 2020-01-01 00:00:00
 3 | THY183 |  | 4ba9c1 | TC-JNA | A332 |  | LTBW | 2019-12-31 00:25:26 | 2020-01-01 07:48:41 | 2020-01-01 00:00:00
 4 | CES738 | MU738 | 781418 |  |  | YMML | YSSY | 2019-12-31 01:08:54 | 2020-01-01 01:45:29 | 2020-01-01 00:00:00
