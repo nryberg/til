@@ -23,4 +23,8 @@ Thoroughly and delightfully documented at [Simon's Self Writing Readme](https://
 ## python
 
 * [Fun with Python Dates](https://github.com/nryberg/til/blob/master/python/fun-with-python-dates.md) - 2020-04-22
+
+## data
+
+* [Example Wikidata Query](https://github.com/nryberg/til/blob/master/data/wikipedia-query.md) - 2020-04-23
 <!-- index ends -->
