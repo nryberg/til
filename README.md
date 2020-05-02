@@ -39,4 +39,8 @@ Thoroughly and delightfully documented at [Simon's Self Writing Readme](https://
 ## powershell
 
 * [Sample very large file in Powershell](https://github.com/nryberg/til/blob/master/powershell/sample-very-large-files-in-powershell.md) - 2020-04-24
+
+## postgresql
+
+* [Loading CSV File from CLI to Postgres](https://github.com/nryberg/til/blob/master/postgresql/loading-csv-file-from-cli-to-postgres.md) - 2020-05-01
 <!-- index ends -->
