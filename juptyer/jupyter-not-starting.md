@@ -19,4 +19,4 @@ Apr 13 00:06:39 littlebox systemd[1]: Started jupyter.service.
 	* Pasting the results into shell was painful until switching back to the Putty
 * Updated server IP in Jupyter config file similar to above.
 
-Works like a dream now. 
+Works like a dream now. A happy dream that is.
