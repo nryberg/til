@@ -39,4 +39,8 @@ Thoroughly and delightfully documented at [Simon's Self Writing Readme](https://
 ## postgresql
 
 * [Loading CSV File from CLI to Postgres](https://github.com/nryberg/til/blob/master/postgresql/loading-csv-file-from-cli-to-postgres.md) - 2020-05-01
+
+## jupyter
+
+* [Securing Credential Data in Jupyter Notebooks](https://github.com/nryberg/til/blob/master/jupyter/securing-credential-data-in-jupyter-notebooks.md) - 2020-05-06
 <!-- index ends -->
