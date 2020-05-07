@@ -12,3 +12,6 @@ $sample = "C:\Users\nick\Dropbox\Develop\Data\Flights\Historical\sample.csv"
 gc -Path $file -Tail 100 | Out-File $sample -Encoding ascii
 
 ```
+
+Another option is to use the [Microsoft Log Parser tool](https://www.microsoft.com/en-us/download/confirmation.aspx?id=24659) which can be called from Powershell or used independently.
+

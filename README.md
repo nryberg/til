@@ -28,10 +28,6 @@ Thoroughly and delightfully documented at [Simon's Self Writing Readme](https://
 
 * [Example Wikidata Query](https://github.com/nryberg/til/blob/master/data/wikipedia-query.md) - 2020-04-23
 
-## juptyer
-
-* [Jupyter on Local Server](https://github.com/nryberg/til/blob/master/juptyer/jupyter-not-starting.md) - 2020-04-23
-
 ## tools
 
 * [Log Parser Tool from Microsoft](https://github.com/nryberg/til/blob/master/tools/log-parser-tool-microsoft.md) - 2020-04-24
