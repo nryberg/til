@@ -43,6 +43,7 @@ Thoroughly and delightfully documented at [Simon's Self Writing Readme](https://
 ## jupyter
 
 * [Securing Credential Data in Jupyter Notebooks](https://github.com/nryberg/til/blob/master/jupyter/securing-credential-data-in-jupyter-notebooks.md) - 2020-05-06
+* [Password protect the Jupyter service](https://github.com/nryberg/til/blob/master/jupyter/password_protect_jupyter.md) - 2022-08-29
 
 ## rails
 
