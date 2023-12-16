@@ -10,3 +10,7 @@ It's a cloud solution.
 
 Oh, yeah, and maybe use it for backup?
 
+## Hate the PiHole
+
+When it's not working as expected. Now the little server its running on is dead.  Dead!  So no DNS, so anything hard code to it for DNS? Done.
+
