@@ -28,13 +28,13 @@ Thoroughly and delightfully documented at [Simon's Self Writing Readme](https://
 
 * [Example Wikidata Query](https://github.com/nryberg/til/blob/master/data/wikipedia-query.md) - 2020-04-23
 
-## tools
-
-* [Log Parser Tool from Microsoft](https://github.com/nryberg/til/blob/master/tools/log-parser-tool-microsoft.md) - 2020-04-24
-
 ## powershell
 
 * [Sample very large file in Powershell](https://github.com/nryberg/til/blob/master/powershell/sample-very-large-files-in-powershell.md) - 2020-04-24
+
+## tools
+
+* [Log Parser Tool from Microsoft](https://github.com/nryberg/til/blob/master/tools/log-parser-tool-microsoft.md) - 2020-04-24
 
 ## postgresql
 
@@ -51,6 +51,6 @@ Thoroughly and delightfully documented at [Simon's Self Writing Readme](https://
 
 ## networking
 
+* [Love me PiHole](https://github.com/nryberg/til/blob/master/networking/pihole.md) - 2023-12-12
 * [Tailscale is the bomb dot com](https://github.com/nryberg/til/blob/master/networking/tailscale.md) - 2023-12-12
-* [](https://github.com/nryberg/til/blob/master/networking/pihole.md) - 2023-12-12
 <!-- index ends -->
