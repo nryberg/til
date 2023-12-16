@@ -10,3 +10,22 @@ Now I have to fix up the connections pushing data to Minio.  Minor pain, but if 
 
 One question - won't tailscale run out of ip addresses to distribute?
 
+## Command Line
+
+It appears that the Menu Bar version of Tailscale isn't showing.  
+
+If you need the command line version:
+
+`/Applications/Tailscale.app/Contents/MacOS/Tailscale`
+
+Use `up` and `down` as needed. 
+
+## 2023-12-16
+
+So - love the Tailscale.  Love using PiHole.  Love trying to use PiHole across the entire network.  Don't like using Tailscale to configure DNS for the entire network and then having the PiHole go down leaving me with no connectivity.  
+
+The Tinkerboard is dead.  I don't know why and I don't have time to fix it.  I'm tempted to either use a good service (AdBlock) or host my own PiHole in the cloud - which is tempting but hackable. 
+
+Oi.
+
+
