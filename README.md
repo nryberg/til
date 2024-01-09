@@ -53,4 +53,12 @@ Thoroughly and delightfully documented at [Simon's Self Writing Readme](https://
 
 * [Love me PiHole](https://github.com/nryberg/til/blob/master/networking/pihole.md) - 2023-12-12
 * [Tailscale is the bomb dot com](https://github.com/nryberg/til/blob/master/networking/tailscale.md) - 2023-12-12
+
+## files
+
+* [Minio](https://github.com/nryberg/til/blob/master/files/s3_minio.md) - 2024-01-04
+
+## minio
+
+* [Minio](https://github.com/nryberg/til/blob/master/minio/find_files.md) - 2024-01-08
 <!-- index ends -->
